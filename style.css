@@ -134,6 +134,7 @@ input {
   width: 100%;
   padding-left: 10px;
   margin-bottom: 40px;
+  color: #404040;
 }
 .footer-row {
   display: grid;
